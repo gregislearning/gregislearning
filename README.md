@@ -10,6 +10,7 @@ A frontend web developer with 5 year professional experience. Technologies inclu
 * ✉️  You can contact me at [gregeng5@gmail.com](mailto:gregeng5@gmail.com)
 * 🤝  I'm open to collaborating on projects that help people
 * ⚡  I lived in China for 10 years
+* Blog: https://greg5eng.netlify.app/
 
 ### Skills
 
