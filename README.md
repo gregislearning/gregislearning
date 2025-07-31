@@ -8,7 +8,7 @@ A frontend web developer with 5 year professional experience. Technologies inclu
 
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [gregeng5@gmail.com](mailto:gregeng5@gmail.com)
-* 🤝  I'm open to collaborating on projects that help people
+* 🤝  I'm open to collaborating on projects
 * ⚡  I lived in China for 10 years
 * Blog: https://greg5eng.netlify.app/
 
